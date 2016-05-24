@@ -10,4 +10,4 @@
 
 #Open the client side : frontend.html on any server any port and it will work fine (use chrome or mozilla firefox it works fine)
 
-ps : you need to install redis properly if you are using windows
+ps : you need to install redis-server properly if you are using windows
