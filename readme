@@ -1,0 +1,11 @@
+#description: chatServer.js is the server side, chat-frontend.js is the client side
+
+#to run the project : first of all
+    * run these commands :
+        npm install websocket
+        npm install redis
+        (although i provided the node_modules with the solution but run the commands to make sure)
+        i am using node v-5.4.1
+#Now run the server:  node chatServer.js
+
+#Open the client side : frontend.html on any server any port and it will work fine (use chrome or mozilla firefox it works fine)
